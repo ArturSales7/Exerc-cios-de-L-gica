@@ -5,4 +5,4 @@ Exercícios para fortalecer e consolidar logica de programação (Java e JS)
 
 | Exercício | Nome       | Descrição                                                                                             |
 |-----------|------------|-----------------------------------------------------------------------------------------------------|
-| 1         | If e Else  | Programa que pede a idade do usuário e mostra mensagem se pode votar, voto opcional ou obrigatório. |
+| 1         | If e Else de votacao  | Programa que pede a idade do usuário e mostra mensagem se pode votar, voto opcional ou obrigatório. |
