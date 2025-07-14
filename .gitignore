@@ -1,1 +1,15 @@
-.idea
+# Configurações do IntelliJ IDEA
+.idea/
+.idea/workspace.xml
+*.iml
+
+# Arquivos compilados Java
+*.class
+out/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
